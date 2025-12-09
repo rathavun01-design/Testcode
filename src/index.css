@@ -1,0 +1,8 @@
+.button{
+  background: linear-gradient(90deg, rgb(218, 204, 204) ,red);
+  border: none;
+  height: 20px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+}
